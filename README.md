@@ -38,8 +38,7 @@ Used daily by:
 
 ## 📸 See It In Action
 
-*[Screenshot of Image Color Picker tool]*
-*[Screenshot of Web Color Extractor with URL entered]*
+<img width="1896" height="867" alt="Huesnatch-A free color tool" src="https://github.com/user-attachments/assets/3f6ffbf9-168c-4257-88f5-19a51139601b" />
 
 ---
 
